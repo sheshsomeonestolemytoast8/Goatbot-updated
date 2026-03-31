@@ -1,7 +1,7 @@
 {
-        "name": "goat-bot-v2",
+        "name": "Xioncana'o-bot",
         "version": "1.5.35",
-        "description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
+        "description": "A simple Bot chat messenger using personal account. Made by Hades Drystan Wanless Carson.",
         "main": "index.js",
         "engines": {
                 "node": ">=20.x",
